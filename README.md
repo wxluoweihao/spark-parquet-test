@@ -9,7 +9,7 @@ This project demonstrates how to encrypt and decrypt data using Apache Spark and
 - Writing encrypted Parquet files.
 - Reading encrypted Parquet files with correct keys.
 - Attempting to read encrypted Parquet files with incorrect keys.
-- Demonstrating the importance of key management in data encryption.
+- Using udf to encrypt or decrypt data.
 
 ## Prerequisites
 
